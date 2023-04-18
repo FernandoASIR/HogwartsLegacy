@@ -1,6 +1,8 @@
 package com.hogwartslegacy;
 
 
+import com.hogwartslegacy.modelo.Hechizo;
+
 import static com.hogwartslegacy.modelo.Casa.GRYFFINDOR;
 import static com.hogwartslegacy.modelo.Casa.SLYTHERIN;
 import static com.hogwartslegacy.modelo.Madera.ABETO;
